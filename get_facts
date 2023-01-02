@@ -14,3 +14,6 @@ with open('ROUTER') as r:
   print(facts)
 
 device.close()
+
+
+
